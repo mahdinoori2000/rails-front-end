@@ -38,7 +38,7 @@
 # 📖 React Frontend <a name="about-project"></a>
 
 **React Frontend** is web project using react that will show you a greeting from an api server
-This is the link to the [backend](https://github.com/ClarenceAtim/hello-rails-back-end)
+This is the link to the [backend](https://github.com/mahdinoori2000/rails_backend/pull/1)
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -76,7 +76,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/ClarenceAtim/hello-react-front-end.git
+  git clone https://github.com/mahdinoori2000/rails-front-end.git
 ```
 
 ### Install
