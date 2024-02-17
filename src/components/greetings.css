@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Styling for the loading and error messages */
+.message-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.loading-message {
+  color: #007bff;
+}
+
+.error-message {
+  color: #dc3545;
+}
+
+.greeting-message {
+  color: #28a745;
+}
