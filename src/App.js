@@ -1,13 +1,14 @@
-import { Routes, Route } from 'react-router';
-import GreetingsPage from './routes/GreetingsPage';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Greeting from './components/Greeting';
 
 function App() {
   return (
-    <main>
+    <Router>
       <Routes>
-        <Route path="/" element={<GreetingsPage />} />
+        <Route path="/" element={<Greeting />} />
       </Routes>
-    </main>
+    </Router>
   );
 }
 

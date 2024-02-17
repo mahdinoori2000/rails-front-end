@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-const url = 'http://127.0.0.1:3000/greetings';
+const url = 'http://127.0.0.1:3000/random_greeting';
 
 const initialState = {
   greeting: [],
